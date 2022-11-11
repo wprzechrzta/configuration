@@ -1,0 +1,4 @@
+
+
+killall limelight &> /dev/null
+limelight &> /dev/null &
