@@ -158,6 +158,7 @@ Music promoted by Audio Library https://youtu.be/xkM0Ygic0Vg
    
 ln -s ~/myInstall/limelight-master/bin/limelight /usr/local/bin/limelight
 
+/usr/local/bin/limelight --config 
 2. install yabai and skhd
 brew install koekeishiya/formulae/yabai
 brew services start yabai
@@ -171,3 +172,5 @@ Start skhd
 
 4. Try stackline
     https://github.com/AdamWagner/stackline
+
+5. Install https://hyperkey.app/
