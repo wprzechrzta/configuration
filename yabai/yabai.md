@@ -18,6 +18,7 @@ yabai -m config debug_output on
 ```bash
 # directory containing log files (HOMEBREW_PREFIX defaults to /usr/local unless you manually specified otherwise)
 HOMEBREW_PREFIX/var/log/yabai/
+/usr/local/var/log/yabai
 
 # view the last lines of the error log 
 tail -f /usr/local/var/log/yabai/yabai.err.log
