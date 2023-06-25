@@ -163,7 +163,8 @@ ln -s ~/myInstall/limelight-master/bin/limelight /usr/local/bin/limelight
 2. install yabai and skhd
 brew install koekeishiya/formulae/yabai
 brew services start yabai
-brew services restart yabai brew services info yabai
+brew services restart yabai 
+brew services info yabai
 brew remove yabai
 
 3.  Install skhd
