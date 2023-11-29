@@ -18,8 +18,14 @@ https://code.visualstudio.com/docs/editor/github-copilot#_chat-view
 
 - moving in ghost suggestions
   Ctr + Arrow
+  Option + ] 
+
+### Inline suggestions
+- next suggesion 
   Option + ]
 
+- previous suggestion
+ Option + [
 
   ## Chat 
 ⌃⌘I - Opens the Chat view
