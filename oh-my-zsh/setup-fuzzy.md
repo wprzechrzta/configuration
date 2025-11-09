@@ -3,6 +3,9 @@
 # References
 - https://kaliex.co/supercharge-your-zsh-terminal-with-fzf-a-simple-guide/
 
+0. Install fzf
+> brew install fzf
+> /opt/homebrew/opt/fzf/install
 
 
 1. Add .oh-my-zsh/custom/fuzzy-commands.zsh
